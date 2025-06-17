@@ -1,0 +1,5 @@
+{
+    "dataPath": "data/meetings.json",
+    "port": 3651,
+    "host": "0.0.0.0"
+}

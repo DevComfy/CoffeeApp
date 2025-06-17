@@ -1,0 +1,107 @@
+[
+  {
+    "dateTime": "1991-10-15T21:09",
+    "duration": 180,
+    "boardroom": "Boardroom A",
+    "userName": "Aliquid quos ad exer",
+    "beverages": [
+      {
+        "type": "coffee",
+        "name": "Cappuccino",
+        "quantity": 1,
+        "milk": true,
+        "sugar": 3,
+        "id": "koyh27z3z"
+      },
+      {
+        "type": "coffee",
+        "name": "Regular Coffee",
+        "quantity": 1,
+        "milk": true,
+        "sugar": 1,
+        "id": "zy33nzcph"
+      },
+      {
+        "type": "tea",
+        "name": "Regular Tea",
+        "quantity": 1,
+        "milk": true,
+        "sugar": 1,
+        "id": "i21cka0nk"
+      },
+      {
+        "type": "water",
+        "name": "Still Water",
+        "quantity": 1,
+        "id": "sxv3nt2p1"
+      },
+      {
+        "type": "water",
+        "name": "Sparkling Water",
+        "quantity": 1,
+        "id": "8ueriovve"
+      }
+    ],
+    "notes": "Eos similique in ex",
+    "recurring": false,
+    "id": "mbziabm07y8jk65jtes",
+    "createdAt": "2025-06-16T19:47:26.664Z",
+    "status": "completed"
+  },
+  {
+    "dateTime": "2016-05-23T09:36",
+    "duration": 45,
+    "boardroom": "Executive Suite",
+    "userName": "Enim nisi tempor aut",
+    "beverages": [
+      {
+        "type": "coffee",
+        "name": "Regular Coffee",
+        "quantity": 1,
+        "milk": true,
+        "sugar": 1,
+        "id": "9hujpzqqv"
+      },
+      {
+        "type": "tea",
+        "name": "Regular Tea",
+        "quantity": 1,
+        "milk": true,
+        "sugar": 1,
+        "id": "pgvlttq5y"
+      },
+      {
+        "type": "water",
+        "name": "Still Water",
+        "quantity": 1,
+        "id": "8yr9xw072"
+      }
+    ],
+    "notes": "Officiis consequatur",
+    "recurring": false,
+    "id": "mc08o2bcsqx1mgvo4",
+    "createdAt": "2025-06-17T08:05:57.816Z",
+    "status": "scheduled"
+  },
+  {
+    "dateTime": "2025-06-17T10:06",
+    "duration": 180,
+    "boardroom": "Boardroom B",
+    "userName": "Comfort",
+    "beverages": [
+      {
+        "type": "coffee",
+        "name": "Regular Coffee",
+        "quantity": 5,
+        "milk": true,
+        "sugar": 1,
+        "id": "qy3fobj6k"
+      }
+    ],
+    "notes": "",
+    "recurring": false,
+    "id": "mc08ooxcwt6ywkwwo18",
+    "createdAt": "2025-06-17T08:06:27.120Z",
+    "status": "scheduled"
+  }
+]
